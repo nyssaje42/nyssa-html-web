@@ -1,34 +1,25 @@
 <body>
-  <h1>The Best Animated TV Shows for your Next Binge Watch </h1>
-  <div id="introduction">
-    <h2>About Brown Bears</h2>
-    <p>The brown bear (<em>Ursus arctos</em>) is native to parts of northern Eurasia and North America. Its conservation status is currently <strong>Least Concern</strong>.<br /><br /> There are many subspecies within the brown bear species, including the Atlas bear and the Himalayan brown bear.</p>
-    <h3>Species</h3>
-    <ul>
-      <li>Arctos</li>
-      <li>Collarus</li>
-      <li>Horribilis</li>
-      <li>Nelsoni (extinct)</li>
-    </ul>
-    <h3>Features</h3>
-    <p>Brown bears are not always completely brown. Some can be reddish or yellowish. They have very large, curved claws and huge paws. Male brown bears are often 30% larger than female brown bears. They can range from 5 feet to 9 feet from head to toe.</p>
-  </div>
-  <div id="habitat">
-    <h2>Habitat</h2>
-    <h3>Countries with Large Brown Bear Populations</h3>
-    <ol>
-      <li>Russia</li>
-      <li>United States</li>
-      <li>Canada</li>
-    </ol>
-    <h3>Countries with Small Brown Bear Populations</h3>
-    <p>Some countries with smaller brown bear populations include Armenia, Belarus, Bulgaria, China, Finland, France, Greece, India, Japan, Nepal, Poland, Romania, Slovenia, Turkmenistan, and Uzbekistan.</p>
-  </div>
-  <div id="media">
-    <h2>Media</h2>
-    <img src="https://content.codecademy.com/courses/web-101/web101-image_brownbear.jpg" alt="A Brown Bear"/>
-    <video src="https://content.codecademy.com/courses/freelance-1/unit-1/lesson-2/htmlcss1-vid_brown-bear.mp4" width="320" height="240" controls> Video not supported
-    </video>
+  
+  <h1>Drama</h1>
+  <div id="drama">
+    <h2>Attack on Titan</h2>
+    <img src="" alt="attack on titan poster"/>
+    <h3>Rating: 10/10</h3>
+    <h3>About</h3>
+    <p>Attack on Titan is an anime about a boy named Eren and his friends who live in a land guarded by walls. These walls protect them from the man eating titans who rule all of the land beyond those walls. One day tragedy strikes, leading Eren on a journey of discovery, forever changing the world as he knew it.</p>
+    
+   <h2>Arcane</h2>
+    <img src="https://www.figma.com/board/CcY9OcNFE7sGUXrvWiGPJ0/Website-Content?node-id=8-44&t=ztFrhVY3QYWk9KGI-4" alt="attack on titan poster"/>
+    <h3>Rating: 9/10</h3>
+    <h3>About</h3>
+    <p>Arcane is a cartoon about two sisters navigating a world divided by class. Top side and bottom which world will dominate and how will that conflict affect the two sisters as well as the other characters in the show. Watch now to find out!!</p>
+    
+  <h2>Psycho-Passs</h2>
+    <img src="https://www.figma.com/board/CcY9OcNFE7sGUXrvWiGPJ0/Website-Content?node-id=8-44&t=ztFrhVY3QYWk9KGI-4" alt="attack on titan poster"/>
+    <h3>Rating: 8.5/10</h3>
+    <h3>About</h3>
+    <p>The anime Psycho-Pass is an intense sci-fi drama in a dystopian world where thought and possibility is punishable by death. Does struggle make you “deviant” or does it make you human? 
+</p>
   </div>
 </body>
 
